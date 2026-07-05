@@ -2,6 +2,8 @@
 
 A lightweight, responsive web-based chat interface for Ollama LLMs. It features a Go backend and an Alpine.js/Tailwind CSS frontend with streaming responses and live parameter configuration.
 
+<img src="screenshot.png" alt="Ollama Chat UI Screenshot" style="border-radius: 12px;" />
+
 ## Features
 
 - **Model Selector**: Automatically fetches and lists your locally installed Ollama models.
